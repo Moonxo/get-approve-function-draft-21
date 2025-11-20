@@ -14,4 +14,3 @@
         approved[5] = "Rocket Man";
         return approved;
 
-
